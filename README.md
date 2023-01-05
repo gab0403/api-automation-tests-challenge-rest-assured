@@ -2,7 +2,7 @@
 
 <h2> :scroll: Objetivos do projeto:</h2>
 
-<p> "Explorar o frame work RestAssured + JUnit e a geração de reports com o Allure Framework, mais o uso de JsonServer para simular uma API." </p>
+<p> "Explorar o framework RestAssured + JUnit e a geração de reports com o Allure Framework, mais o uso de JsonServer para simular uma API." </p>
 
 ----
 
